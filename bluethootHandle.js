@@ -7,7 +7,7 @@ function loadBT() {
 }
 
 function bt_connect() {
-    bt.Connect('karjoAgro Kontrol')
+    bt.Connect('karjoAgro V01')
     console.log('try conect BT')
 }
 
